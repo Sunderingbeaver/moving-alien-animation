@@ -52,7 +52,7 @@
   width: 600px; 
   height: 500px;
   border: 2px solid black;
-  background-image: url('D:\3rd Year\2ndSem\CSIT340\prelim_practical\public\bg.png');
+  background-image: url('/public/bg.png');
   background-size: cover; 
   position: relative; 
 }
